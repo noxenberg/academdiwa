@@ -1,1 +1,9 @@
+[client]
+showSidebarNavigation = false
+initial_sidebar_state = "collapsed"
 
+[theme]
+primaryColor = "#1E3A8A"
+backgroundColor = "#1E293B"
+secondaryBackgroundColor = "#151B2B"
+textColor = "#FAFAFA"
