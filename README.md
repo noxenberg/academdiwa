@@ -1,3 +1,4 @@
+```
 Project/
 │
 ├── code/
@@ -5,3 +6,4 @@ Project/
 ├── images/
 ├── README.md
 └── .gitignore
+```
